@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashppawar
 - 👀 I’m interested in Computer Science, Physics and Environment
 - 🌱 I’m currently learning AI, ML and JavaScript
-<!-- - 💞️ I’m looking to collaborate on ... 
+<!- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... -->
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
